@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adem Abe
 
 ## About Me
-🎓 4th-year Computer Science & Engineering Student at Adama Science and Technology University  
+🎓 5th-year Computer Science & Engineering Student at Adama Science and Technology University  
 💻 Web Developer |  HTML, CSS, JavaScript, MySQL,Node.js,React.js  
 🌱 Learning Full Stack Development & GitHub Workflows  
 📫 Email: adeabe205@gmail.com  
